@@ -1,0 +1,11 @@
+# Dependencias de Node
+/node_modules
+/npm-debug.log
+/yarn-error.log
+
+*.log
+npm-debug.log*
+
+.env
+.DS_Store
+*.tmp
